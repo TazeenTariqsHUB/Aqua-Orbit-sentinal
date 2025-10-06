@@ -1,0 +1,3 @@
+create a folder 
+put all the files in that folder to access the project.
+extract all the files in that folder

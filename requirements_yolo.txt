@@ -1,0 +1,16 @@
+# YOLOv5 and Computer Vision Dependencies
+torch>=1.9.0
+torchvision>=0.10.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+numpy>=1.21.0
+
+# Web Framework
+Flask>=2.0.0
+
+# YOLOv5 will be downloaded automatically by torch.hub
+# ultralytics/yolov5
+
+# Optional: For better performance
+# torch-audio  # if you need audio processing
+# torchaudio   # if you need audio processing
